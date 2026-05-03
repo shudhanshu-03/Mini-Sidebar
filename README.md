@@ -23,8 +23,8 @@ A sleek, modern, and highly responsive sidebar navigation menu built with HTML, 
 Simply clone this repository and open `index.html` in your favorite web browser. No build steps or package managers required!
 
 ```bash
-git clone https://github.com/yourusername/mini-sidebar.git
-cd mini-sidebar
+git clone https://github.com/shudhanshu-03/Mini-Sidebar.git
+cd Mini-Sidebar
 ```
 
 ## 📸 Preview
