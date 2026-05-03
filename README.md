@@ -29,4 +29,5 @@ cd mini-sidebar
 
 ## 📸 Preview
 
-*(Feel free to add a screenshot of the project here)*
+<img width="1920" height="1000" alt="Screenshot 2026-05-03 154925" src="https://github.com/user-attachments/assets/dce64329-4bf4-4141-b12c-c042231778d3" />
+<img width="1920" height="1006" alt="Screenshot 2026-05-03 155051" src="https://github.com/user-attachments/assets/f57c1f9e-262d-493b-8aa6-443459a7038a" />
